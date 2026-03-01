@@ -89,6 +89,22 @@ Mais do que aplicar funções, o desafio exigiu:
 - Pensamento crítico sobre resultados.
 
 ---
+## 📈 Algumas visualizações geradas
+
+**Quantidade de empréstimos de livros por mês, entre 2010 e 2020:**
+<img width="735" height="404" alt="lineplot_emprestimos-por-mes" src="https://github.com/user-attachments/assets/8036d8e2-98c8-4480-a2d6-3c6a66ef1dab" />  
+
+**Quantidade de empréstimos do Acervo Circulante para alunos de graduação, gerado de acordo com os meses dos anos de 2010 à 2020:**
+<img width="1035" height="558" alt="boxplot_emprestimos-acervo-circulante-graduacao" src="https://github.com/user-attachments/assets/e6031e70-cd14-400b-9f5f-9a190555064f" />  
+
+**Tabela pivotada e exportada em .html, com as diferenças percentuais de diferentes cursos de pós-graduação:**
+<img width="781" height="452" alt="image" src="https://github.com/user-attachments/assets/1c96d921-8365-499c-816e-ac5e270799c9" />
+
+
+
+
+
+---
 
 ## 📌 Créditos
 
